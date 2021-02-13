@@ -9,12 +9,7 @@ verify_ssl = true
 tensorflow = "*"
 flask = "*"
 opencv-python = "*"
-matplotlib = "*"
-seaborn = "*"
-jupyterlab = "*"
-pillow = "*"
-livelossplot = "==0.5.0"
-pandas = "*"
+
 
 [requires]
-python_version = "3.6"
+python_version = "3.8"
